@@ -8,7 +8,7 @@ An elegant, performant Python script that uses the latest **MediaPipe Tasks Visi
 - **Spectrum Coloring**: Auto-generates unique, vibrant HSV rainbow colors for each cross-hand connection to create a jaw-dropping visual bridge.
 - **Auto-Model Downloading**: Automatically pulls down the required `hand_landmarker.task` AI model directly from Google on its first run. 
 
-## InstallatioN
+## Installation
 
 Ensure you have Python installed, then run:
 
