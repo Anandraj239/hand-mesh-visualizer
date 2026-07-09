@@ -1,6 +1,6 @@
 # 🖐️ Hand Mesh Visualizer
 
-An elegant, performant Python script that uses the latest **MediaPipe Tasks Vision API** to generate a dynamic, glowing skeleton and mesh tracking system for your hands in real-time.
+An elegant, performant Python script that uses the latest **MediaPipe Tasks Vision API** to generate a dynamic, glowing skeleton and mesh tracking system for your hands in real-time.    
 
 ## Features
 - **Clean Skeletons**: Tracks standard skeletal joints to draw a flawless digital outline of your hands.
