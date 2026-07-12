@@ -10,7 +10,7 @@ An elegant, performant Python script that uses the latest **MediaPipe Tasks Visi
 
 ## Installation
 
-Ensure you have Python installed, then run:
+Ensure you have Python installed, then run: 
 
 ```bash
 pip install opencv-python mediapipe
